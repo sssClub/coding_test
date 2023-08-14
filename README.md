@@ -11,7 +11,7 @@
 | 1주차 | 그리디 & 구현 |
 | 2주차  | 이진탐색, 정렬 알고리즘 |  
 | 3주차 | DFS & BFS |
-| 4주차 | [백트래킹](https://www.youtube.com/watch?v=Enz2csssTCs)  | 
+| 4주차 | 백트래킹  | 
 | 5주차 | 다이나믹 프로그래밍 |
 | 6주차 | 최단경로 알고리즘 |
 | 7주차 | 코테에서 자주 출제되는 기타 알고리즘 |   
@@ -30,26 +30,6 @@
 | 6주차 | [14916](https://www.acmicpc.net/problem/14916), [18352 - 다익스트라로 풀기](https://www.acmicpc.net/problem/18352), [1058 - 플로이드 워셜로 풀기](https://www.acmicpc.net/problem/1058) |
 | 7주차 | [24039](https://www.acmicpc.net/problem/24039), [2018](https://www.acmicpc.net/problem/2018), [2435](https://www.acmicpc.net/problem/2435) |   
 | 8주차 | [4949](https://www.acmicpc.net/problem/4949), [9372](https://www.acmicpc.net/problem/9372), [11866](https://www.acmicpc.net/problem/11866), [2164](https://www.acmicpc.net/problem/2164) | 
-
-> 과제의 경우 실버3 ~ 5정도로 낼 생각이며 만약 과제가 너무 쉬운 경우 스스로 더 학습하시면 됩니다!
-
-<br>
-
-## 🤔 커밋 방법
-1. `이름` 폴더 생성
-2. `1주차` 폴더 생성
-3. `이름/1주차` 폴더에 소스코드 업로드
-4. 커밋 제목은 자유
-
-<br>
-
-## 🔎 진행 방법
-1. 커리큘럼에 맞는 강의를 시청한다.
-2. 강의에 나온 문제를 **혼자 힘으로 1시간 30분 이상 고민**해서 풀어본다.
-3. 과제를 푼다.
-4. 과제 중 한 문제를 선택하여 모임날에 발표한다. (문제풀이 방법 + 사고 공유)
-
-<br>
 
 ## ⚠️ 주의 사항
 1. 최소 **1시간 30분 이상 고민**하고 정답 찾아보기 (3시간정도 고민하면 더 좋음)
@@ -76,9 +56,7 @@
  
 <br>
 
-## 👨‍🍳 2/7 ~ 2/14 오마카세
 ### 🍰 우선순위 큐, 다익스트라, DP
-
 
 1. [크리스마스 선물](https://www.acmicpc.net/problem/14235) - **(필수)** 기본 개념 문제
 2. [돌 게임](https://www.acmicpc.net/problem/9655) - **(필수)** 기본 개념 문제
