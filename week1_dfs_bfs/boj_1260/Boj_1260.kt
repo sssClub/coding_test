@@ -8,7 +8,7 @@ private lateinit var graph: Array<MutableList<Int>>
 private lateinit var visited: Array<Boolean>
 private var answerDfs = ""
 
-
+//test
 fun main(args: Array<String>) {
     val (n, m, v) = br.readLine().split(" ").map { it.toInt() }
     graph = Array(n + 1) { mutableListOf() }
