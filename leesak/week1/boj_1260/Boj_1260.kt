@@ -1,4 +1,4 @@
-package esak.week1_dfs_bfs.boj_1260
+package esak.leesak.week1.boj_1260
 
 import java.io.BufferedReader
 import java.io.InputStreamReader
