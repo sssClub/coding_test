@@ -15,7 +15,7 @@ fun main() {
     repeat(t) {
         val (m, n, k) = br.readLine().split(" ").map { it.toInt() }
 
-        graph = Array(m) { Array(n) { 0 } }
+        graph = Array(m) { Array(n){0}  }
         var result = 0
         makeMap(k)
         for (i in 0 until m) {
