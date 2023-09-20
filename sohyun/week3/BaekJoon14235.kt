@@ -5,14 +5,14 @@ import java.util.*
 fun main() {
     val br = BufferedReader(InputStreamReader(System.`in`))
     val n = br.readLine().toInt()
-    val gift = ArrayDeque<Int>()
+    val gift = PriorityQueue<Int>(reverseOrder())
 
     repeat(n) {
         val a = br.readLine().split(" ")
 
         when (a[0]) {
             "0" -> {
-                val largestGift = gift.pollFirst()
+                val largestGift = gift.poll()
                 println(largestGift ?: -1)
             }
 
@@ -23,3 +23,4 @@ fun main() {
         }
     }
 }
+
